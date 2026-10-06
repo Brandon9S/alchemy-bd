@@ -88,7 +88,7 @@ ORDER BY i.nombre_ingrediente;
 
 El parámetro `?` recibe el identificador de la receta mediante un `PreparedStatement`.
 
-![Consulta JOIN ejecutada en Alchemy](docs/consulta join.png)
+![Consulta JOIN ejecutada en Alchemy](docs/consulta_join.png)
 
 ## Modelo de datos
 
